@@ -9,9 +9,16 @@ A simple Tic-Tac-Toe game built with HTML, CSS, and JavaScript.
 - Check for winning conditions
 - Option to restart the game
 
-## 🚀 How to Run
+tic-tac-toe/
+├── index.html
+├── styles.css
+├── script.js
+└── README.md
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
-   cd tic-tac-toe
+
+Technologies Used
+HTML
+
+CSS
+
+JavaScript
